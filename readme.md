@@ -1,6 +1,6 @@
-# Tier 1 Week 5 - Part 1
+# Unit 5, Part 1: Object Practice
 
-This week, we'll be exploring objects by creating an application to help maintain a record collection. We will be creating objects using `object literal` syntax.
+This unit, we'll be exploring objects by creating an application to help maintain a record collection. We will be creating objects using `object literal` syntax.
 
 ## Topics Covered
 

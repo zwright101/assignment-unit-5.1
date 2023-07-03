@@ -61,6 +61,8 @@ console.log("Updated shoe count!:", me.shoeCount);
 // me.favoriteColor.push(favoriteColor); 
 // console.log(me);
 
-let favoriteColor = "Blue"
-me.favThreeFoods += "Blue"; 
+// let favoriteColor = "Blue"
+// me.favThreeFoods += "Blue"; 
+
+me.favoriteColor = "Blue";
 console.log(me);
